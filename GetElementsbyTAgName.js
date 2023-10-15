@@ -11,6 +11,7 @@ for(var i=0;i<li.length;i++)
     li[i].style.backgroundColor='#f4f4f4';
 }
 
+
 //GET ELEMENT BY CLASSS NAME//
 var list=document.getElementsByClassName('list-group-item')
 for(var i=0;i<list.length;i++)
